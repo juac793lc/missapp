@@ -1,0 +1,1 @@
+{"name":"MISSAPP","short_name":"MISSAPP","description":"Gala Suprema - Competition Platform","start_url":"/missapp/","display":"standalone","background_color":"#000000","theme_color":"#f2ca50","lang":"en","scope":"/missapp/","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
